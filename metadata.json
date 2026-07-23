@@ -1,0 +1,6 @@
+{
+  "name": "DriveSort Guard - File Organizer & Security Hub",
+  "description": "Secure cross-platform file organizer with role-based access, audit logging, encrypted backup, GDPR compliance, and executable package generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
